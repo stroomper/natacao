@@ -1,0 +1,2 @@
+D:\FormularioIf\Natacao\Natacao\obj\x86\Debug\Natacao.Form1.resources
+D:\FormularioIf\Natacao\Natacao\obj\x86\Debug\Natacao.csproj.GenerateResource.Cache
